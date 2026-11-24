@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إيماءة</string>
+    <string name="acc_desc">تسمح لإيماءة بتنفيذ التمرير والرجوع والرئيسية وتشغيل/إيقاف الفيديو والتحكم بالصوت عند اكتشاف إيماءاتك بالمستشعرات. لا يتم جمع أي بيانات.</string>
+</resources>
